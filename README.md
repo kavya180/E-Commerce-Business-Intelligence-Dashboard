@@ -153,7 +153,7 @@ The notebook includes visualizations for:
 ## Project Structure
 
 ```text
-Customer-Intelligence-Revenue-Analytics/
+E-Commerce-Business-Intelligence-Dashboard/
 │
 ├── assets/
 │   ├── dashboard/
@@ -192,7 +192,7 @@ Customer-Intelligence-Revenue-Analytics/
 Clone the repository:
 
 ```bash
-git clone https://github.com/kavya180/Customer-Intelligence-Revenue-Analytics.git
+git clone https://github.com/kavya180/E-Commerce-Business-Intelligence-Dashboard.git
 ```
 
 Install dependencies:
