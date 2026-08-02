@@ -16,6 +16,29 @@ The project follows a complete analytics workflow—from data preprocessing and 
 
 ---
 
+## Dataset
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**, publicly available on Kaggle.
+
+**Dataset:** [Brazilian E-Commerce Public Dataset by Olist (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+The repository includes both the original dataset (`data/raw`) and the cleaned datasets (`data/processed`) generated during preprocessing.
+
+The dataset contains information related to:
+
+- Customers
+- Orders
+- Order Items
+- Products
+- Sellers
+- Payments
+- Reviews
+- Geolocation
+- Product Category Translation
+
+---
+
+
 ## Tech Stack
 
 - Python
@@ -124,7 +147,6 @@ The notebook includes visualizations for:
 - Payment Method Distribution
 - Customer Review Distribution
 
-**(Insert EDA screenshots here if desired)**
 
 ---
 
@@ -188,7 +210,7 @@ notebooks/01_Data_Preprocessing_and_EDA.ipynb
 Open the Power BI report:
 
 ```text
-powerbi/Customer_Intelligence_Revenue_Analytics.pbix
+powerbi/E-Commerce-Business-Intelligence-Dashboard.pbix
 ```
 
 ---
